@@ -1,3 +1,6 @@
+///////  https://go-tour-jp.appspot.com/methods/18
+
+
 package main
 
 import "fmt"
